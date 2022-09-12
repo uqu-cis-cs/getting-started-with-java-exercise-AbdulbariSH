@@ -15,7 +15,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello:  <Abdulbari> <443001490>" );
+        System.out.println( "Hello:  Abdulbari 443001490" );
     }
 }
 
